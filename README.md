@@ -1,7 +1,7 @@
 # Heart Failure Analysis
 
 ## Brief Summary of dataset
-This analysis is on a dataset with hospital admission data for 299 patients. All of these patients were admitted for heart failure. Some of these patients recovered and were discharged, while others passed away. This analysis will go through data cleaning, data exploration, and modeling to decipher whether or nor a patient will die during their hospital admission.   
+This analysis is on a dataset with hospital admission data for 299 patients. All of these patients were admitted for heart failure. Some of these patients recovered and were discharged, while others passed away. This analysis will go through data cleaning, data exploration, and modeling to decipher whether or not a patient will die during their hospital admission.   
 
 
 ## Summary of variables
